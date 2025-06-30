@@ -12,9 +12,9 @@ It provides a modern and customizable base to create a restaurant app.
 ## 📸 Screenshots
 
 ✅ Android
-<p float="left"> <img src="assets/screenshots/home_android.png" width="200" /> <img src="assets/screenshots/checkout_android.png" width="200" /> <img src="assets/screenshots/account_android.png" width="200" /> </p>
+<p float="left"> <img src="assets/screenshots/android/home_android.png" width="200" /> <img src="assets/screenshots/android/checkout_android.png" width="200" /> <img src="assets/screenshots/android/account_android.png" width="200" /> </p>
 🍏 iOS
-<p float="left"> <img src="assets/screenshots/home_ios.jpg" width="200" /> <img src="assets/screenshots/checkout_ios.jpg" width="200" /> <img src="assets/screenshots/account_ios.jpg" width="200" /> </p>
+<p float="left"> <img src="assets/screenshots/ios/home_ios.jpg" width="200" /> <img src="assets/screenshots/ios/checkout_ios.jpg" width="200" /> <img src="assets/screenshots/ios/account_ios.jpg" width="200" /> </p>
 
 ## 🚀 Getting Started
 
